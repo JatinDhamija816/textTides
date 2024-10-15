@@ -62,7 +62,7 @@ To start the frontend in development mode using Vite, run:
 npm run dev
 ```
 
-The frontend will be available at http://localhost:3000 (or any port specified by Vite).
+The frontend will be available at http://localhost:5173 (or any port specified by Vite).
 
 
 ## Usage
